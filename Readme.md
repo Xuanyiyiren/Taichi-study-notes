@@ -19,6 +19,6 @@ Taichi似乎不在conda包含的包以内，无法用`conda install taichi`下�
 就很快安装完成了
 
 ## Taichi 的一些学习资料
-- Taichi官方的Guide和doc[https://docs.taichi-lang.cn/docs/hello_world/]
-- Taichi官方的课程：[太极图形课-第一季](https://docs.taichi-lang.org/tgc01)
+-  [Taichi官方的Guide和doc](https://docs.taichi-lang.cn/docs/hello_world/) 
+-  Taichi官方的课程：[太极图形课-第一季](https://docs.taichi-lang.org/tgc01) 
 
