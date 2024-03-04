@@ -22,3 +22,7 @@ Taichi似乎不在conda包含的包以内，无法用`conda install taichi`下�
 -  [Taichi官方的Guide和doc](https://docs.taichi-lang.cn/docs/hello_world/) 
 -  Taichi官方的课程：[太极图形课-第一季](https://docs.taichi-lang.org/tgc01) 
 
+# 新的发现
+
+在跟太极图形的官方课程，发现使用了太极修饰过的函数的print功能并不能正常在.ipynb文件中运行，可以参考我的test1.ipynb。但是奇怪的是taichi的Hello World的确在.ipynb中成功运行且也跑出结果了。后来我发现视频中总是在使用.py文件运行，所以把代码复制到了test1.py中，再次运行的结果就合理了。
+
